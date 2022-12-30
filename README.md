@@ -18,3 +18,6 @@ washington
 ### Credits
 First i want to say thanks for this opportunity to study this course. i been use google and youtube search, for many consulted information.
 
+### Comments
+work local repo and remote it's powerful techniques to work as a team in a project
+
