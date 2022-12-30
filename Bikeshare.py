@@ -182,8 +182,8 @@ def display_data(df):
     while True:
         print(df.iloc[start_loc:start_loc+5])
         start_loc += 5
-        view_data = input("Do you wish to continue? yes or no.\n ").lower()
-        if view_data.lower() != 'yes':
+        view_data = input("Do you wish to continue? y or n.\n ").lower()
+        if view_data.lower() != 'y':
             break
     
 def main():
