@@ -175,7 +175,8 @@ def user_stats(df):
         
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
+    
+    #TO DO: new function called display_data will show the data based on the location
 def display_data(df):
     start_loc = 0
     while True:
